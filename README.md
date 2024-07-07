@@ -14,7 +14,7 @@ Mango Bot uses Telegram's cloud storage to store your data, ensuring that it's a
 https://t.me/pip_mango_bot
 ## Contact
 
-If you have any questions or want to learn more, feel free to reach out to me at here(keshavsde@gmail.com).
+If you have any questions or want to learn more, feel free to reach out to me at [keshavsde@gmail.com].
 
 ## Access 
 
