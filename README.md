@@ -11,10 +11,10 @@ Mango Bot is a Telegram bot that uses telegram cloud storage and saved your data
 ## How it works
 
 Mango Bot uses Telegram's cloud storage to store your data, ensuring that it's always accessible and secure. Our bot is designed to be user-friendly and eashttps://t.me/pip_mango_boty to use, with a simple and intuitive interface.
-
+https://t.me/pip_mango_bot
 ## Contact
 
-If you have any questions or want to learn more, feel free to reach out to me at [keshavsde@gmail.com].
+If you have any questions or want to learn more, feel free to reach out to me at here(keshavsde@gmail.com).
 
 ## Access 
 
